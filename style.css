@@ -15,3 +15,18 @@ h1
 		font-family: VT323, monospace;
 		font-size: 50px;
 	}
+
+a:link, a:visited
+	{
+		background-color: none;
+		color: orange;
+		text-allign: center;
+		text-decoration: none;
+		display: inline-block;
+		padding: 6px;
+	}
+a:hover, a:active
+	{
+		background-color: midnightblue;
+		color: white;
+	}
