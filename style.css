@@ -1,8 +1,14 @@
 body
 	{
-		background-color: gray;
+		background-color: chocolate;
 	}
-h3	
+p	
 	{
 		font-family: 'Lobster', cursive;
+	}
+h1
+	{
+
+		font-family: 'Lobster', cursive;
+		font-size: '15 px'
 	}
