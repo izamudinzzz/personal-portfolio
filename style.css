@@ -4,5 +4,14 @@ body
 	}
 p	
 	{
-		
+		background-color: seashell;
+		font-family: monospace;
+		font-size: 15px; 
+
+	}
+h1	
+	{
+		background-color: lightblue;
+		font-family: ;
+		font-size: 40px;
 	}
